@@ -18,4 +18,5 @@ This project was developed by [Sayyad Abdul Bari]. The code is based on the PyTo
 
 References
 https://www.kaggle.com/datasets/grassknoted/asl-alphabet
+
 https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html
